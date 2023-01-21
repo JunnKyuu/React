@@ -4,12 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import Inform from './Jun/Inform';
+import Library from './practice_01/Library';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Inform />
+    <Library />
   </React.StrictMode>
 );
 
